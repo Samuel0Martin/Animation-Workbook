@@ -1,4 +1,6 @@
-## Photoshop Shortcuts
+# Photoshop Shortcuts
+
+## <a href="../index">Return to index</a>
 
 ### b - Brush
 ### [ - Decrease brush size

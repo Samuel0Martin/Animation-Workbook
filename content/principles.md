@@ -1,4 +1,6 @@
-## Animation Principles
+# Animation Principles
+
+## <a href="../index">Return to index</a>
 
 # <a href="p01">01 - Squash & Stretch</a>
 # <a href="p02">02 - Anticipation</a>
@@ -12,10 +14,6 @@
 # <a href="p10">10 - Exaggeration</a>
 # <a href="p11">11 - Solid Drawing</a>
 # <a href="p12">12 - Appeal</a>
-
-
-
-https://idearocketanimation.com/13721-12-principles-of-animation-gifs/
 
 
 
