@@ -16,3 +16,11 @@
 ### The main character finds a treasure chest in the forest.
 ### He open the chest and finds the sword he was looking for.
 <img src="img/Storyboard_Scene_03.png" alt="">
+
+## Animation Resources
+
+### https://opengameart.org/content/large-forest-background
+### © 2012-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>
+
+### https://opengameart.org/content/game-background-forest
+### Author : Segel
