@@ -1,5 +1,6 @@
+## <a href="../index">Return to index</a>
 
-Squash & Stretch + Exaggeration Excercise
+# Squash & Stretch + Exaggeration Excercise
 
 <img src="img/ball_ani.png" alt="">
 
