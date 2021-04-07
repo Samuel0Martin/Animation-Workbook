@@ -17,6 +17,25 @@
 ### He open the chest and finds the sword he was looking for.
 <img src="img/Storyboard_Scene_03.png" alt="">
 
+
+## Outcome
+### Overall I think the animation was all right.
+### The parallax background scrolling added a nice touch to the scene.
+### There was a point where sword breaks and shortly afterwards the enemy falls down, there is a little bit of overlapping with these two animations which I 
+### I did not know exactlly how the characters where going to fight when I first created the storyboards.
+### I came up with the idea of showing a number above the two characters heads showing that they had taken damage.
+### Added a health bar or something to show the remaing health would have made this easier to understand.
+
+### By making the enterance to the forest on a layer in front of the main character, it gives a good effect showing that he has entered the forest.
+### This was not clear in the storyboards that the character was actually in the forest. 
+
+
+## Things to change 
+### The title was rather standard as text on a white background. Adding some style to this would have made it better.
+
+### The characters could have been a bit closer together in the fighting scene.
+
+
 ## Animation Resources
 
 ### https://opengameart.org/content/large-forest-background
