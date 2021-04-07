@@ -32,7 +32,6 @@
 
 ## Things to change 
 ### The title was rather standard as text on a white background. Adding some style to this would have made it better.
-
 ### The characters could have been a bit closer together in the fighting scene.
 
 
